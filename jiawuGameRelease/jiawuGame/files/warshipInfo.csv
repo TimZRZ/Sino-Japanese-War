@@ -1,0 +1,25 @@
+变量名,舰船名,图片地址,舰船类型
+hiei,比叡,:/images/images/warships/hiei.jpg,class1J
+fuso,扶桑,:/images/images/warships/fuso.jpg,class1J
+chiyoda,千代田,:/images/images/warships/chiyoda.jpg,class2J
+matsushima,松岛,:/images/images/warships/matsushima.jpg,class3J
+itsukushima,严岛,:/images/images/warships/itsukushima.jpg,class3J
+hashidate,桥立,:/images/images/warships/hashidate.jpg,class3J
+naniwa ,浪速,:/images/images/warships/naniwa.jpg,class3J
+takachiho,高千穗,:/images/images/warships/takachiho.jpg,class3J
+yoshino,吉野,:/images/images/warships/yoshino.jpg,class3J
+akitsushima,秋津洲,:/images/images/warships/akitsushima.jpg,class3J
+akagi,赤城,:/images/images/warships/akagi.jpg,class4J
+saikio,西京丸,:/images/images/warships/saikio.jpg,class5J
+dingyuan,定远,:/images/images/warships/dingyuan.jpg,class1Q
+zhenyuan,镇远,:/images/images/warships/zhenyuan.jpg,class1Q
+pingyuan,平远,:/images/images/warships/pingyuan.jpg,class1Q
+jingyuan1,经远,:/images/images/warships/jingyuan1.jpg,class2Q
+laiyuan,来远,:/images/images/warships/laiyuan.jpg,class2Q
+zhiyuan,致远,:/images/images/warships/zhiyuan.jpg,class3Q
+jiyuan,济远,:/images/images/warships/jiyuan.jpg,class3Q
+jingyuan2,靖远,:/images/images/warships/jingyuan2.jpg,class3Q
+chaoyong,超勇,:/images/images/warships/chaoyong.jpg,class4Q
+yangwei,扬威,:/images/images/warships/yangwei.jpg,class4Q
+guangbing,广丙,:/images/images/warships/guangbing.jpg,class4Q
+guangjia,广甲,:/images/images/warships/guangjia.jpg,class5Q
